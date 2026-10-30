@@ -2,7 +2,7 @@
 
 > Como usar: rode `/4-implementar N` para cada tarefa, teste no navegador e faça commit.
 
-- [ ] 1. Estruturar a tela e o loop principal
+- [x] 1. Estruturar a tela e o loop principal
   - Criar a estrutura da página, o canvas central e o CSS de fundo; adicionar o objeto `CONFIG` com valores base; iniciar o loop com `requestAnimationFrame` e mostrar a tela inicial.
   - **Arquivos:** `index.html`, `style.css`, `src/config.js`, `src/main.js`
   - **Como verificar:** abrir a página no navegador → a tela deve mostrar o nome do jogo e a instrução "pressione Espaço para começar" e o canvas deve ficar visível com o loop em execução.
